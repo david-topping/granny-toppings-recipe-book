@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Granny Topping's Recipes: review</h1>
+{% if not recipes %}
+<p>No recipes yet. Run <code>uv run toppings transcribe</code> first.</p>
+{% else %}
+<p>{{ recipes | selectattr("1.status", "equalto", "approved") | list | length }} of {{ recipes | length }} approved.</p>
+<table>
+  <tr><th>Card</th><th>Title</th><th>Status</th></tr>
+  {% for name, recipe in recipes %}
+  <tr>
+    <td><a href="/recipe/{{ name }}">{{ name }}</a></td>
+    <td>{{ recipe.title }}</td>
+    <td><span class="badge {{ recipe.status }}">{{ recipe.status.replace("_", " ") }}</span></td>
+  </tr>
+  {% endfor %}
+</table>
+{% endif %}
+{% endblock %}

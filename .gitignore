@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Pipeline outputs (keep folders, not contents)
+data/processed/*
+data/recipes/*
+data/pending_batch.json
+output/*
+!**/.gitkeep
+.env

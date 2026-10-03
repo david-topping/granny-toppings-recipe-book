@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Recipe review{% endblock %}</title>
+  <style>
+    body { font-family: Georgia, serif; margin: 0; padding: 1rem 1.5rem; color: #2b2b2b; background: #fbf8f2; }
+    a { color: #7a3e1d; }
+    h1 { font-weight: normal; }
+    table { border-collapse: collapse; width: 100%; }
+    td, th { padding: .3rem .4rem; text-align: left; vertical-align: top; }
+    input, textarea { font: inherit; width: 100%; box-sizing: border-box; padding: .3rem; border: 1px solid #c9c2b5; background: #fff; }
+    textarea { min-height: 3.5rem; }
+    .layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: 1.5rem; align-items: start; }
+    .scan { position: sticky; top: 1rem; }
+    .scan img { width: 100%; border: 1px solid #c9c2b5; }
+    .medium { background: #fff4c2; border-color: #e0b400; }
+    .low { background: #ffd9d2; border-color: #d0482a; }
+    .badge { display: inline-block; font-size: .8rem; padding: .1rem .5rem; border-radius: 1rem; background: #e6e0d4; }
+    .badge.approved { background: #cfe8cf; }
+    .legend span { padding: .1rem .5rem; margin-right: .5rem; border: 1px solid; }
+    .actions { margin: 1rem 0; display: flex; gap: .5rem; }
+    button { font: inherit; padding: .4rem 1rem; cursor: pointer; }
+    .saved { color: #2e6b2e; }
+    nav { margin-bottom: 1rem; }
+    @media (max-width: 800px) { .layout { grid-template-columns: 1fr; } .scan { position: static; } }
+  </style>
+</head>
+<body>
+{% block content %}{% endblock %}
+</body>
+</html>
