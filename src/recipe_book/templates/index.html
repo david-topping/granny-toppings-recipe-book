@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Granny Topping's Recipes</h1>
+<nav class="stages">
+  <a href="/" class="{{ 'current' if show != 'todo' }}">All ({{ total }})</a>
+  <a href="/?show=todo" class="{{ 'current' if show == 'todo' }}">Still to approve ({{ total - approved }})</a>
+  <span class="muted">{{ approved }} of {{ total }} approved</span>
+</nav>
+{% if chapters %}
+<table class="recipes">
+  <colgroup><col><col class="pages"><col class="flag"><col class="status"></colgroup>
+  <thead><tr><th>Recipe</th><th>Page</th><th>Checks</th><th>Status</th></tr></thead>
+  {% for chapter, recipes in chapters %}
+  <tbody>
+    <tr class="chapter"><th colspan="4">{{ chapter }}</th></tr>
+    {% for r in recipes %}
+    <tr>
+      <td><a href="/recipe/{{ r.id }}">{{ r.title }}</a></td>
+      <td class="muted">{{ r.source.pages | join(", ") }}</td>
+      <td>{% if r.checks %}<span class="badge uncertain-count">{{ r.checks | length }}</span>{% endif %}</td>
+      <td><span class="badge {{ 'approved' if r.approved }}">{{ "approved" if r.approved else "to approve" }}</span></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+  {% endfor %}
+</table>
+{% else %}
+<p>Nothing left to approve.</p>
+{% endif %}
+{% endblock %}

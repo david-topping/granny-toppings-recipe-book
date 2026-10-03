@@ -1,0 +1,592 @@
+{
+  "id": "soups-and-starters",
+  "title": "Soups and Starters",
+  "recipes": [
+    {
+      "id": "mushroom-soup",
+      "title": "Mushroom Soup",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "chicken stock",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "lb",
+          "item": "mushrooms",
+          "preparation": "chopped",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Whisk everything together with a hand whisk until boiling."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0354"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "curried-carrot-soup",
+      "title": "Curried Carrot Soup",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "onions",
+          "preparation": "chopped",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "carrots",
+          "preparation": "sliced",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "pt",
+          "item": "chicken stock",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "mild curry powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "pepper",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "cooking apples",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "tbsp",
+          "item": "water",
+          "preparation": "for the apples",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "sugar",
+          "preparation": "for the apples",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "tbsp",
+          "item": "double cream",
+          "preparation": "whipped",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the butter and cook the onions.",
+        "Add the carrots, stock, curry powder and pepper. Cook, then blend.",
+        "Cook the apples with the water and sugar and purée. Add the whipped double cream and stir into the soup before serving."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0354"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "potato-onion-and-leek-soup",
+      "title": "Potato, Onion and Leek Soup",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1½",
+          "unit": "lb",
+          "item": "leeks",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "onions",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "potatoes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "pt",
+          "item": "stock",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "single cream",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Sauté the leeks, butter and onions for 5 mins.",
+        "Add the potatoes and stock and boil for 30 mins, then liquidise.",
+        "Stir in single cream before serving."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0356"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "golden-carrot-soup",
+      "title": "Golden Carrot Soup",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1½",
+          "unit": "lb",
+          "item": "carrots",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "potatoes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "pepper",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "bay leaves",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "pt",
+          "item": "stock",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tbsp",
+          "item": "cornflour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "creamy milk or single cream",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil the carrots, potatoes, pepper, bay leaves, stock and sugar for 45 mins, then liquidise.",
+        "Add the cornflour mixed with a little water and the creamy milk or single cream."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0357"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "mackerel-pate",
+      "title": "Mackerel Pâté",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "mackerel fillets",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "slice",
+          "item": "crustless bread",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "plain yoghurt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "",
+          "item": "lemon",
+          "preparation": "juice",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "dried dill or parsley",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": "only"
+        }
+      ],
+      "method": [
+        "Skin the mackerel and blend.",
+        "Soak the bread in the milk.",
+        "Add the soaked bread, yoghurt, lemon juice, dill or parsley and butter, and blend. Put in a soufflé dish or ramekin.",
+        "Decorate with parsley and lemon."
+      ],
+      "notes": [
+        "Will keep for 4 to 5 days."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0355"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "eggs-alpine",
+      "title": "Eggs Alpine",
+      "makes": "",
+      "ingredients": [],
+      "method": [
+        "Cheese, then egg, then salt and pepper and more cheese.",
+        "Bake 15 mins at mark 4."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0354"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "crisp-and-creamy-crab-mille-feuille",
+      "title": "Crisp and Creamy Crab Mille-Feuille",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "7½",
+          "unit": "oz",
+          "item": "puff pastry",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "cream cheese",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "tomato ketchup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "salt and pepper",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "crab or salmon",
+          "preparation": "drained",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "tub",
+          "item": "mustard and cress",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Beat the cream cheese, ketchup, seasoning and crab, then add the snipped cress.",
+        "Roll out the pastry to a rectangle slightly larger than 15\" x 8\", then trim to 15\" x 8\".",
+        "Cut into 3 strips and prick well with a fork.",
+        "Bake 15 to 20 mins. Cool and trim the edges.",
+        "Split each piece of pastry, keeping the best piece for the top.",
+        "Spread with the mixture and sandwich up, leaving a plain top.",
+        "Assemble 3 to 4 hours before the party."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0364"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "mayonnaise",
+      "title": "Mayonnaise",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "level tsp",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "dry mustard",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "cayenne pepper",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "pt",
+          "item": "Mazola oil",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "tbsp",
+          "item": "vinegar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Combine the sugar, mustard, salt, pepper and egg. Beat with a rotary beater.",
+        "Add ⅔ of the Mazola gradually, beating all the time.",
+        "Stir in 1 tbsp vinegar.",
+        "Add the remaining ⅓ of the Mazola, beating all the time.",
+        "Finally mix in the remaining 2 tbsp vinegar."
+      ],
+      "notes": [
+        "Will keep in the fridge for a while."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0365"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "salads",
+      "title": "Salads",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "celery",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "apple",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "nuts",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "mayonnaise",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "raisins or sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "mixed herbs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vinaigrette",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cauliflower salad: celery, apple, nuts and mayonnaise.",
+        "Carrot salad: raisins or sultanas, nuts, mixed herbs and vinaigrette."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0366"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    }
+  ]
+}

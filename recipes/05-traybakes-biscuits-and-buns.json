@@ -1,0 +1,2234 @@
+{
+  "id": "traybakes-biscuits-and-buns",
+  "title": "Traybakes, Biscuits and Buns",
+  "recipes": [
+    {
+      "id": "peppermint-slice",
+      "title": "Peppermint Slice",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "¼",
+          "unit": "lb",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "dessertspoon",
+          "item": "cocoa",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "handful",
+          "item": "crushed cornflakes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "cup",
+          "item": "soft brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "lb",
+          "item": "icing sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "tsp",
+          "item": "peppermint essence",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg and add the dry ingredients.",
+        "425° for 20 mins. Cool a little.",
+        "For the topping, mix the icing sugar and peppermint essence with a little water and spread over."
+      ],
+      "notes": [
+        "Variation (IMG_0374): 1lb icing sugar and 1 tsp peppermint essence for the topping, then spread with melted chocolate.",
+        "Variation (IMG_0367): 4oz marg, 4oz self-raising flour, 2oz brown sugar, 1 tbsp cocoa, 1 tsp bicarbonate of soda, pinch salt. Swiss roll tin, 190° for 15 mins. Topping of 12oz icing sugar, green colouring and peppermint essence mixed with hot water."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0376",
+          "IMG_0367",
+          "IMG_0374"
+        ],
+        "note": "Clearest of three versions; see also IMG_0367 and IMG_0374"
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chocolate-slice",
+      "title": "Chocolate Slice",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "chocolate",
+          "preparation": "plus extra to line the base",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "small tin",
+          "item": "condensed milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "digestives",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "fruit",
+          "preparation": "",
+          "note": "optional"
+        }
+      ],
+      "method": [
+        "Line the base with chocolate.",
+        "Melt the chocolate, butter and condensed milk and add the digestives."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0367"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "caramel-slices",
+      "title": "Caramel Slices",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "for the base",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "for the caramel",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "small tin",
+          "item": "Nestlé's milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "chocolate",
+          "preparation": "melted, to finish",
+          "note": ""
+        }
+      ],
+      "method": [
+        "For the base, cream the marg and caster sugar. Add the flour and baking powder.",
+        "Bake in a Swiss roll tin at 400° for 15 mins.",
+        "For the caramel, melt the marg, sugar, syrup and Nestlé's milk, then boil for 3 mins, stirring all the time.",
+        "Pour onto the base while still warm.",
+        "When cold, spread with melted chocolate."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0370"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "coconut-slices",
+      "title": "Coconut Slices",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "crushed cornflakes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "cup",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "water icing",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg and add to the mixture.",
+        "Bake in a Swiss roll tin at 300° for 20 mins.",
+        "When cool, cover with water icing."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0375"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "date-slices",
+      "title": "Date Slices",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "stoned dates",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "just under ¼",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "porridge oats",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil the dates in the water for 5 mins.",
+        "Mix the oats and flour, rub in the marg and add the sugar.",
+        "375° for 25 to 30 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0378"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "sunshine-squares",
+      "title": "Sunshine Squares",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level dessertspoon",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "cornflakes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "porridge oats",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Grease a 13\" x 9\" Swiss roll tin.",
+        "Melt the marg, sugar and syrup, then add to the crushed cornflakes and oats.",
+        "Mark 4 for 10 to 15 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0381"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "flapjacks",
+      "title": "Flapjacks",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "porridge oats",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg, then stir in the sugar, oats, flour and salt.",
+        "Press into a 12\" x 8\" Swiss roll tin.",
+        "Mark 5 or 375° for 20 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0381"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "choc-crisp-slices",
+      "title": "Choc Crisp Slices",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "cherries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "ginger",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "teacups Rice Krispies",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "cooking chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "packet dates or sultanas",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg and sugar in a pan. Add the dates and cook a little.",
+        "Mix in the cherries and ginger, then the crispies.",
+        "Press into a Swiss roll tin, then cover with cooking chocolate. Cut when set and cold."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0382"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "Ginger: mentioned in the method, no amount given."
+      ],
+      "approved": false
+    },
+    {
+      "id": "chocolate-shorties",
+      "title": "Chocolate Shorties",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2½",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2½",
+          "unit": "oz",
+          "item": "lard",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "cocoa",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "oz",
+          "item": "digestive biscuits",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "chocolate icing",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the butter, lard and sugar. Add the flour, cocoa and digestive biscuits.",
+        "Bake at mark 4 (350°) for about 25 mins in a Swiss roll tin.",
+        "Cut into squares and then triangles while hot.",
+        "Coat with chocolate icing."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0379"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "vienna-traybake",
+      "title": "Vienna Traybake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "icing sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "cornflour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "caster sugar",
+          "preparation": "to sprinkle",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the icing sugar and butter, then add the flour, cornflour, salt and vanilla essence.",
+        "Sprinkle with caster sugar.",
+        "Mark 4 (350°) for 20 to 25 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0379"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "butterscotch-squares",
+      "title": "Butterscotch Squares",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "for the base",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "soft brown sugar",
+          "preparation": "for the base",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "small tin",
+          "item": "condensed milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "crushed digestives",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "For the fudge, boil the marg, sugar, condensed milk and syrup for 8 mins, then add the digestives."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0379"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "The rest of the base ingredients and method have faded and are unreadable."
+      ],
+      "approved": false
+    },
+    {
+      "id": "fruit-fingers",
+      "title": "Fruit Fingers",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "demerara sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "10",
+          "unit": "oz",
+          "item": "fruit",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "beaten",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg and sugar, then add the flour, fruit and egg.",
+        "Swiss roll tin, 35 mins at 160°C."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0385"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chocolate-brownies",
+      "title": "Chocolate Brownies",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "beaten",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "cocoa",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "handful",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg and add the egg, milk, sugar, flour, cocoa and sultanas.",
+        "180° for 15 to 20 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0385"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "streusel-fingers",
+      "title": "Streusel Fingers",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "½",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "for the topping",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "for the topping",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "soft brown sugar",
+          "preparation": "for the topping",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "cinnamon",
+          "preparation": "for the topping",
+          "note": ""
+        }
+      ],
+      "method": [
+        "For the base, cream self-raising flour, sugar and marg, then add the other ingredients and milk.",
+        "Spread half in a Swiss roll tin.",
+        "For the topping, rub in the flour, butter, sugar and cinnamon and sprinkle over.",
+        "350° for 35 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0383"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "The amounts and some ingredients have faded."
+      ],
+      "approved": false
+    },
+    {
+      "id": "no-cook-crunch",
+      "title": "No Cook Crunch",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "digestive biscuits",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "cherries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "soft chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "chocolate",
+          "preparation": "to cover",
+          "note": ""
+        }
+      ],
+      "method": [],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0383"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "4 oz soft chocolate: word unclear."
+      ],
+      "approved": false
+    },
+    {
+      "id": "coconut-munchies",
+      "title": "Coconut Munchies",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "cooking chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "glacé cherries",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Grease an 11¼\" x 7¼\" baking tray.",
+        "Spread the chocolate and leave to set.",
+        "Mix the egg, caster sugar, coconut and cherries and spread over.",
+        "Mark 4 (350°) for about 20 to 30 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0380"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "The red ink has faded towards the end."
+      ],
+      "approved": false
+    },
+    {
+      "id": "shortbread",
+      "title": "Shortbread",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "9",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "cornflour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and sugar, then add the flour and cornflour.",
+        "300°."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0375"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "shortbread-small-batch",
+      "title": "Shortbread (small batch)",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Rub in, then knead.",
+        "350° for 30 mins (or 325° for 30 mins)."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0377"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "shortbread-biscuits",
+      "title": "Shortbread Biscuits",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "9",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Rub the butter in until it holds together.",
+        "Knead lightly.",
+        "325° for 20 to 30 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0373"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "viennese-shortcakes",
+      "title": "Viennese Shortcakes",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "tsp",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the butter, sugar and vanilla until very soft.",
+        "Add the flour.",
+        "350° for 30 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0390"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "ginger-shortcake",
+      "title": "Ginger Shortcake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "ground ginger",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "tbsp",
+          "item": "icing sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "for the icing",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "ground ginger",
+          "preparation": "for the icing",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "tsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and sugar. Add the flour, baking powder and ginger.",
+        "350° for 25 to 30 mins.",
+        "For the icing, put the icing sugar, marg, ginger and syrup into a pan. Melt, but don't boil.",
+        "Spread over and cut while warm."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0376"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "yo-yo-biscuits",
+      "title": "Yo-Yo Biscuits",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "icing sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "custard powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vanilla essence",
+          "preparation": "to taste",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and icing sugar.",
+        "Add the flour, custard powder and vanilla.",
+        "Bake for 20 mins at 400°."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0370"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "coconut-biscuits",
+      "title": "Coconut Biscuits",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "baking soda",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and sugar, then add the coconut, flour and baking soda.",
+        "Make into small balls.",
+        "Do not flatten.",
+        "350° to 370° for 15 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0383"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "coconut-biscuits-second-version",
+      "title": "Coconut Biscuits (second version)",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream, then roll into round balls.",
+        "325° for 15 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0385"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "cinnamon-biscuits",
+      "title": "Cinnamon Biscuits",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "cinnamon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "granulated sugar",
+          "preparation": "to coat",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the butter and sugar, then add the flour and cinnamon.",
+        "Shape into a sausage and roll in granulated sugar.",
+        "Slice.",
+        "325° for 25 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0385"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "cornflake-macaroons",
+      "title": "Cornflake Macaroons",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "cornflakes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "milk",
+          "preparation": "if necessary",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and sugar.",
+        "Beat in the syrup.",
+        "Add the flour and the milk if necessary.",
+        "Bake in a moderate oven for 15 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0380"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "crombie-nuts-mrs-clark",
+      "title": "Crombie Nuts (Mrs Clark)",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "bicarbonate of soda",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "ginger",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the syrup, marg and sugar.",
+        "Add the soda dissolved in the milk, then the flour, raisins and ginger.",
+        "Flatten with a fork.",
+        "325° for 20 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0382"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "Title: The first word of the name is unclear."
+      ],
+      "approved": false
+    },
+    {
+      "id": "queen-cakes",
+      "title": "Queen Cakes",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and sugar.",
+        "Add the eggs and flour a little at a time, alternating, then the sultanas.",
+        "Bake for 15 to 20 mins at 425°."
+      ],
+      "notes": [
+        "Margin note: mark 4 for 20 mins or mark 5 for 15 mins."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0371"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "coconut-cakes",
+      "title": "Coconut Cakes",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "beaten",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "milk",
+          "preparation": "to mix",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Make like queen cakes.",
+        "Ice and sprinkle with coconut."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0373"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "lemon-or-orange-buns",
+      "title": "Lemon or Orange Buns",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "oranges or lemons",
+          "preparation": "grated rind",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "milk",
+          "preparation": "to mix",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Rub in the fat and add the sugar and rind.",
+        "Mix with the lightly beaten egg and maybe a little milk.",
+        "400° for 15 to 20 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0373"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "rock-cakes",
+      "title": "Rock Cakes",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2½",
+          "unit": "oz",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and sugar.",
+        "Add the egg, then the flour, mixed spice, currants and milk.",
+        "Do not overmix.",
+        "Regulo 7 to 8, 425° to 450°, for 10 to 15 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0375"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "london-buns",
+      "title": "London Buns",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "marg or lard",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the fat, sugar and egg.",
+        "Add the salt, flour, currants and milk and beat well to toughen the mixture.",
+        "Very hot oven for 8 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0381"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "scones",
+      "title": "Scones",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "level tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "cup",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Rub in the marg, add the sugar and mix with the milk."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0376"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "pancakes",
+      "title": "Pancakes",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "heaped tbsp",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "heaped tbsp",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "heaped tbsp",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs and milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "melted syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "rounded tsp",
+          "item": "bicarbonate of soda",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "rounded tsp",
+          "item": "cream of tartar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0380"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "margarets-pancakes",
+      "title": "Margaret's Pancakes",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "heaped tbsp",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": "8oz pencilled in"
+        },
+        {
+          "quantity": "4",
+          "unit": "heaped tbsp",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "heaped tbsp",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs and milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "syrup",
+          "preparation": "melted",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "rounded tsp",
+          "item": "bicarbonate of soda",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "rounded tsp",
+          "item": "cream of tartar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Dissolve the soda and cream of tartar in a little milk in a cup before adding."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0391"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    }
+  ]
+}

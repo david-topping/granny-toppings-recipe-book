@@ -1,0 +1,493 @@
+{
+  "id": "pastry-icings-and-fillings",
+  "title": "Pastry, Icings and Fillings",
+  "recipes": [
+    {
+      "id": "sweet-pastry",
+      "title": "Sweet Pastry",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "Stork",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "lard",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "granulated sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "tbsp",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the fats and sugar.",
+        "Add the flour, and when the consistency is like shortbread add a wish of water.",
+        "400° for ½ hour, then 350°."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0384"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "flaky-pastry-for-steak-pie-and-sausage-rolls",
+      "title": "Flaky Pastry (for steak pie and sausage rolls)",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "10",
+          "unit": "oz",
+          "item": "fat",
+          "preparation": "",
+          "note": "½ marg, ½ lard"
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Using a knife, chop the marg into the flour.",
+        "Mix to an elastic consistency using water.",
+        "Roll out, fold in three and seal the edges.",
+        "Repeat four times."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0387"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "crumble",
+      "title": "Crumble",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2½",
+          "unit": "oz",
+          "item": "Stork",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "oz",
+          "item": "lard",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Rub in until ready, then put on top of the fruit.",
+        "400° for ½ hour, then 350°."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0384"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "untitled-pastry",
+      "title": "Untitled Pastry",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "10½",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3½",
+          "unit": "oz",
+          "item": "lard",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3½",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2¼",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "round tsp baking powder",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0384"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "1 tbsp water: partly unclear."
+      ],
+      "approved": false
+    },
+    {
+      "id": "german-pastry",
+      "title": "German Pastry",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "12",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "175°."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0383"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "The rest of the red ink has faded and is unreadable."
+      ],
+      "approved": false
+    },
+    {
+      "id": "fudge-filling",
+      "title": "Fudge Filling",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2½",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2½",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "dried milk",
+          "preparation": "",
+          "note": "Millac"
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "chocolate powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "handful",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "⅓",
+          "unit": "cup",
+          "item": "hot water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Beat the marg and sugar until very soft.",
+        "Add the dry ingredients, beating all the time.",
+        "Add the vanilla and hot water.",
+        "Spread while the mixture is still soft."
+      ],
+      "notes": [
+        "Note: use sweet pastry made with ½lb flour in a Swiss roll tin."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0369"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "butterscotch-filling",
+      "title": "Butterscotch Filling",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "demerara sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the sugar and marg.",
+        "Add the flour mixed with a little of the milk.",
+        "Let it come to the boil."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0370"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "fudge-for-biscuit-base",
+      "title": "Fudge (for biscuit base)",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "dark brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "small tin",
+          "item": "evaporated milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil for 7 mins and pour over a biscuit base."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0394"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "jeans-icing",
+      "title": "Jean's Icing",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "cocoa or drinking chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "approx 5",
+          "unit": "oz",
+          "item": "icing sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the syrup, milk, marg and cocoa, then beat in the icing sugar."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0397"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    }
+  ]
+}

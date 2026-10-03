@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block title %}{{ recipe.title }}{% endblock %}
+{% block content %}
+<nav>
+  <a href="/">All recipes</a>
+  {% if previous %} · <a href="/recipe/{{ previous }}">Previous</a>{% endif %}
+  {% if next %} · <a href="/recipe/{{ next }}">Next</a>{% endif %}
+</nav>
+<h1>{{ recipe.title }} <span class="badge {{ 'approved' if recipe.approved }}">{{ "approved" if recipe.approved else "to approve" }}</span></h1>
+<p class="muted">{{ chapter }} · {{ recipe.id }}{% if request.query_params.get("saved") %} · <span class="saved">Saved.</span>{% endif %}</p>
+
+<div class="layout">
+  <div class="scan">
+    {% for page in recipe.source.pages %}
+    <a href="/images/{{ page }}.jpg" target="_blank"><img src="/images/{{ page }}.jpg" alt="Page {{ page }}"></a>
+    <p class="muted">{{ page }}</p>
+    {% else %}
+    <p class="muted">No source page.</p>
+    {% endfor %}
+  </div>
+
+  <form method="post">
+    <input type="hidden" name="ingredient_count" value="{{ ingredients | length }}">
+
+    <h2>Checks</h2>
+    <textarea name="checks" rows="{{ recipe.checks | length + 1 }}" class="{{ 'uncertain' if recipe.checks }}" placeholder="Nothing to check. One per line; delete a line once it's resolved. Not printed in the book.">{{ recipe.checks | join("\n") }}</textarea>
+
+    <div class="row">
+      <label>Title <input name="title" value="{{ recipe.title }}"></label>
+      <label class="narrow">Makes <input name="makes" value="{{ recipe.makes }}" placeholder="e.g. 6lbs"></label>
+    </div>
+
+    <div class="row">
+      <label class="narrow">Source pages <input name="pages" value="{{ recipe.source.pages | join(', ') }}"></label>
+      <label>Source note <input name="source_note" value="{{ recipe.source.note }}"></label>
+    </div>
+
+    <h2>Ingredients</h2>
+    <table class="ingredients">
+      <tr><th>Qty</th><th>Unit</th><th>Item</th><th>Preparation</th><th>Note</th></tr>
+      {% for ing in ingredients %}
+      {% set n = loop.index0 %}
+      <tr>
+        <td><input name="ing-{{ n }}-quantity" value="{{ ing.quantity }}"></td>
+        <td><input name="ing-{{ n }}-unit" value="{{ ing.unit }}"></td>
+        <td><input name="ing-{{ n }}-item" value="{{ ing.item }}"></td>
+        <td><input name="ing-{{ n }}-preparation" value="{{ ing.preparation }}"></td>
+        <td><input name="ing-{{ n }}-note" value="{{ ing.note }}"></td>
+      </tr>
+      {% endfor %}
+    </table>
+    <p class="muted">Blank rows are for adding; clear the item to remove a row. If an ingredient appears twice, say which part it's for in Preparation (e.g. "for the topping").</p>
+
+    <h2>Method</h2>
+    <ol>
+      {% for step in method %}
+      <li><textarea name="method" rows="2">{{ step }}</textarea></li>
+      {% endfor %}
+    </ol>
+
+    <h2>Notes</h2>
+    {% for note in notes %}
+    <textarea name="notes" rows="2">{{ note }}</textarea>
+    {% endfor %}
+
+    <div class="actions">
+      <button name="action" value="save">Save</button>
+      {% if recipe.approved %}
+      <button name="action" value="unapprove">Save and mark to approve</button>
+      {% else %}
+      <button name="action" value="approve">Save and approve</button>
+      {% endif %}
+    </div>
+  </form>
+</div>
+{% endblock %}

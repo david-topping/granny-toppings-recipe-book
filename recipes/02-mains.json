@@ -1,0 +1,762 @@
+{
+  "id": "mains",
+  "title": "Mains",
+  "recipes": [
+    {
+      "id": "curry",
+      "title": "Curry",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3½",
+          "unit": "heaped tsp",
+          "item": "curry powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "a good shake",
+          "unit": "",
+          "item": "paprika",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "a good shake",
+          "unit": "",
+          "item": "soy sauce",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "a good shake",
+          "unit": "",
+          "item": "salt and pepper",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "large onions",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "large carrot",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "tin",
+          "item": "tomatoes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "heaped tbsp",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0355"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "curry-sauce",
+      "title": "Curry Sauce",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "medium onions",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "Flora",
+          "preparation": "for frying",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "level dessertspoon",
+          "item": "medium curry powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "ground ginger",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "cinnamon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "turmeric",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "level tbsp",
+          "item": "cornflour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "level tbsp",
+          "item": "lemon juice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "chutney",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tin",
+          "item": "tomatoes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "pt",
+          "item": "chicken stock",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "cooking apples",
+          "preparation": "puréed",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "handful",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Fry the onions in Flora.",
+        "Add the spices, cornflour, lemon juice and chutney and cook for 5 mins.",
+        "Add the tomatoes, stock, apples and sultanas."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0363"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": true
+    },
+    {
+      "id": "chicken-with-apples",
+      "title": "Chicken with Apples",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "",
+          "item": "chicken joints",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "seasoned",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "pt",
+          "item": "cider",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "medium onion",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "double cream",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "dessert apples",
+          "preparation": "to garnish",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "butter",
+          "preparation": "for frying the apples",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "lemon",
+          "preparation": "slices or wedges, to garnish",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Coat the joints with seasoned flour and fry until brown. Remove the joints.",
+        "Stir in the cider and bring to the boil.",
+        "Return the chicken with the whole onion and simmer for 45 mins.",
+        "Remove the onion and add the cream. Do not boil.",
+        "To garnish, fry the apples in butter, taking care not to break them. Arrange round the dish with the lemon."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0362"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "hawaii-chicken",
+      "title": "Hawaii Chicken",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "chicken pieces",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "onion",
+          "preparation": "chopped",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "pepper",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "10",
+          "unit": "fl oz",
+          "item": "stock",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "cornflour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "rings",
+          "item": "canned pineapple",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "pineapple juice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "tomato ketchup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "curry powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "bananas",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Fry the onion and pepper. Add the cornflour and juice.",
+        "Bake at 180° for 1 hour.",
+        "Add bananas and the pineapple just before serving."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0362"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chicken-in-wine-sauce",
+      "title": "Chicken in Wine Sauce",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4 or 6",
+          "unit": "",
+          "item": "chicken breasts",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "cooking apple",
+          "preparation": "puréed",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "onions",
+          "preparation": "chopped",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "pepper",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4 to 6",
+          "unit": "oz",
+          "item": "mushrooms",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tin",
+          "item": "Baxters Cook-in Wine Sauce",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Microwave the onions and pepper.",
+        "Place the chicken, apple, onions and pepper in a casserole with the wine sauce.",
+        "Cook at 180° for 1 hour, then add the sliced mushrooms."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0363"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chicken-and-broccoli-in-creamy-sauce",
+      "title": "Chicken and Broccoli in Creamy Sauce",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "chicken",
+          "preparation": "3 to 4lb",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "lb",
+          "item": "broccoli",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tbsp",
+          "item": "curry powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "large tin",
+          "item": "evaporated milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "pt",
+          "item": "chicken stock",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "tbsp",
+          "item": "mayonnaise",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "lemon juice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "cheddar cheese",
+          "preparation": "grated",
+          "note": ""
+        },
+        {
+          "quantity": "25",
+          "unit": "g",
+          "item": "packet plain crisps",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil the chicken for 40 to 60 mins and leave to cool.",
+        "Steam the broccoli until just tender.",
+        "For the sauce, make a white sauce with the butter, flour, evaporated milk and stock. Stir in the curry powder, mayonnaise, lemon juice and cheese.",
+        "Layer the broccoli, then the chicken. Pour the sauce over and sprinkle with crisps.",
+        "Moderate oven for 25 to 40 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0363"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "toad-in-the-hole",
+      "title": "Toad in the Hole",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "salt and pepper",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "large egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "425° (mark 7) for about 30 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0361"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "stuffing-balls",
+      "title": "Stuffing Balls",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "fresh breadcrumbs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "suet",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "level tsp",
+          "item": "mixed herbs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "large egg",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cook on top of the stew for 30 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0361"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "savoury-surprise",
+      "title": "Savoury Surprise",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "lb",
+          "item": "potatoes",
+          "preparation": "diced into chunks",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "large onion",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "tomatoes",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "grated cheese",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "tsp",
+          "item": "parsley",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Mix together, then place in a greased pie dish.",
+        "Pour over the warm milk and dot with butter.",
+        "400° (mark 6) for 1 hour."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0361"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "rice-slow-cooker",
+      "title": "Rice (slow cooker)",
+      "makes": "",
+      "ingredients": [],
+      "method": [
+        "4 dessertspoons round grain rice to 1pt milk."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0355"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "roasting-notes",
+      "title": "Roasting Notes",
+      "makes": "",
+      "ingredients": [],
+      "method": [],
+      "notes": [
+        "Turkey, 14lb (stuffed): 170° for 4 hours, main oven.",
+        "Turkey, 14 to 15lbs: 170° for 4 hours.",
+        "Silverside: 140°, main oven, 3 hours.",
+        "Macaroni: 2½ Arcoroc mugs for the family."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0362"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    }
+  ]
+}

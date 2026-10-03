@@ -1,0 +1,658 @@
+{
+  "id": "sweets",
+  "title": "Sweets",
+  "recipes": [
+    {
+      "id": "tablet",
+      "title": "Tablet",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "lb",
+          "item": "granulated sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "lb",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tin",
+          "item": "condensed milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Dissolve the sugar, milk and butter and boil for ten minutes.",
+        "Stir in the condensed milk and boil for about 20 mins.",
+        "Add 1 to 2 tsp vanilla essence. Test in water for hardening.",
+        "Pour into greased tins and cut into squares before it cools."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0401"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "mrs-mackintoshs-tablet",
+      "title": "Mrs Mackintosh's Tablet",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "large tin",
+          "item": "condensed milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "large cup",
+          "item": "hot water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "⅔",
+          "unit": "tsp",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the water and sugar, then add the milk.",
+        "Boil until thick.",
+        "Cool slightly and beat for 4 mins.",
+        "Make in the large black pan."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0397",
+          "IMG_0402"
+        ],
+        "note": "Repeated on IMG_0402"
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "lindas-tablet",
+      "title": "Linda's Tablet",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "liquid",
+          "preparation": "",
+          "note": "½ milk, ½ water"
+        },
+        {
+          "quantity": "¼",
+          "unit": "lb",
+          "item": "Stork",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "big pudding spoon of syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "slightly less than 2",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tin",
+          "item": "Nestlé's milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "No method written."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0400"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "creamy-ideal-fudge",
+      "title": "Creamy Ideal Fudge",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "lb",
+          "item": "granulated sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "large can Ideal milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "a few",
+          "unit": "drops",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the butter. Add the sugar and milk.",
+        "Heat slowly until the sugar dissolves.",
+        "Boil for 20 to 30 mins until soft ball stage is reached.",
+        "Add the essence, then beat until it thickens."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0400"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "mrs-gashs-toffee",
+      "title": "Mrs Gash's Toffee",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "large tin",
+          "item": "Nestlé's milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "a dash",
+          "unit": "",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Mix the butter, sugar and syrup together until the butter melts.",
+        "Add the milk and vanilla.",
+        "Boil for ½ hour."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0401"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "Title: The name is unclear."
+      ],
+      "approved": false
+    },
+    {
+      "id": "fionas-sherry-truffles",
+      "title": "Fiona's Sherry Truffles",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "tbsp",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "cocoa or drinking chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "tbsp",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "tbsp",
+          "item": "porridge oats",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "chopped cherries",
+          "preparation": "",
+          "note": "optional"
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "chocolate vermicelli",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg with the sugar and milk.",
+        "Add to the dry ingredients. Mix in the sherry.",
+        "Form into marbles and cover in chocolate vermicelli."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0396"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "truffles",
+      "title": "Truffles",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "5",
+          "unit": "tbsp",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "tbsp",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "tbsp",
+          "item": "porridge oats",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "cocoa",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "small tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "chocolate vermicelli",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the butter and milk, then add the dry ingredients and sherry.",
+        "Roll in chocolate vermicelli."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0401"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "Butter: amount smudged."
+      ],
+      "approved": false
+    },
+    {
+      "id": "anns-truffles",
+      "title": "Ann's Truffles",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "small tin",
+          "item": "Nestlé's milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "drinking chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8 to 10",
+          "unit": "",
+          "item": "digestive biscuits",
+          "preparation": "crushed",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vermicelli",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Only melt the marg and milk, then add the coconut and drinking chocolate and mix well.",
+        "Add the crushed digestives.",
+        "Use wet hands to roll into balls, then roll in vermicelli."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0400"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chocolate-balls",
+      "title": "Chocolate Balls",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "½",
+          "unit": "tin",
+          "item": "Nestlé's milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "12",
+          "unit": "oz",
+          "item": "coconut",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "icing sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "melted chocolate",
+          "preparation": "to coat",
+          "note": ""
+        }
+      ],
+      "method": [],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0374"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "morag-mccuishs-marshmallows",
+      "title": "Morag McCuish's Marshmallows",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "crushed digestive biscuits",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "small tin",
+          "item": "Nestlé's milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "cocoa",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "coconut",
+          "preparation": "to coat",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the milk, cocoa and marg, then add the biscuits.",
+        "Shape and coat with coconut."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0402"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "Title: The surname is unclear."
+      ],
+      "approved": false
+    },
+    {
+      "id": "chocolate-crispy-cakes",
+      "title": "Chocolate Crispy Cakes",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3 or 4",
+          "unit": "heaped tsp",
+          "item": "drinking chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "cornflakes",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg and syrup in a pan.",
+        "Add the drinking chocolate, then cornflakes until the mixture is firm."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0369"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    }
+  ]
+}
