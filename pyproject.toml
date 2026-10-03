@@ -16,14 +16,14 @@ dependencies = [
 ]
 
 [project.scripts]
-toppings = "toppings.app:main"
+recipe-book = "recipe_book.app:main"
 
 [build-system]
 requires = ["uv_build>=0.12.7,<0.13.0"]
 build-backend = "uv_build"
 
 [tool.uv.build-backend]
-module-name = "toppings"
+module-name = "recipe_book"
 
 [dependency-groups]
 dev = [

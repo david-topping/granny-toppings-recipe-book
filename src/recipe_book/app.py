@@ -8,7 +8,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from starlette.datastructures import FormData
 
-from toppings.recipe import (
+from recipe_book.recipe import (
     Chapter,
     Ingredient,
     Recipe,

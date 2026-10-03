@@ -9,7 +9,7 @@ Granny's handwritten recipes as structured JSON, with a small web app to check e
 
 ## Usage
 
-1. Run `uv run toppings`, then open http://127.0.0.1:8000.
+1. Run `uv run recipe-book`, then open http://127.0.0.1:8000.
 2. Click a recipe. The page photo is on the left and the recipe's fields are on the right. The yellow **Checks** box lists anything to verify, such as a faded amount.
 3. Correct the fields against the photo, delete each check once it's resolved, then click **Save and approve**. Use the blank rows to add ingredients, steps or notes, and clear a row to remove it. Use **Next** to move through the book.
 4. Click **Still to approve** on the list page to see what's left.
@@ -18,7 +18,7 @@ Press Ctrl+C in the terminal to stop the app.
 
 ## Files
 
-- `recipes/` one JSON file per chapter; the number prefix (`01-`, `02-`…) gives the chapter order and recipes are in book order within each file. The structure is defined in `src/toppings/recipe.py` and checked on every save:
+- `recipes/` one JSON file per chapter; the number prefix (`01-`, `02-`…) gives the chapter order and recipes are in book order within each file. The structure is defined in `src/recipe_book/recipe.py` and checked on every save:
 
   ```json
   {
