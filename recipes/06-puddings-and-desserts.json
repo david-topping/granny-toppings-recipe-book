@@ -1,0 +1,1240 @@
+{
+  "id": "puddings-and-desserts",
+  "title": "Puddings and Desserts",
+  "recipes": [
+    {
+      "id": "grannys-low-calorie-high-fibre-roly-poly-pudding",
+      "title": "Granny's Low Calorie High Fibre Roly-Poly Pudding",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "Flora spread",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "jam",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "Flora spread",
+          "preparation": "for the topping",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "boiling water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Rub the Flora into the flour and add cold water to make a stiff dough.",
+        "Roll out and spread with jam.",
+        "Roll like a Swiss roll and cut into about 4 sections.",
+        "For the topping, put the sugar and Flora in the dish and top up with boiling water.",
+        "175° for 30 to 40 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0353"
+        ],
+        "note": "Typed card"
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "roly-poly",
+      "title": "Roly Poly",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "lb",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2½",
+          "unit": "tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "jam",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "small cup",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "for the topping",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "boiling water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Rub the marg into the flour. Add the salt and baking powder.",
+        "Use cold water to make a stiff dough. Roll out and spread with jam, then roll up.",
+        "For the topping, melt the sugar and marg in the boiling water and pour over.",
+        "Moderate oven for 30 to 40 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0395"
+        ],
+        "note": "Handwritten version"
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "spotted-dick",
+      "title": "Spotted Dick",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "white breadcrumbs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "suet",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "lemon",
+          "preparation": "rind",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "approx ¼",
+          "unit": "pt",
+          "item": "milk",
+          "preparation": "to mix",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Steam for 2 hrs."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0399"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "eves-pudding",
+      "title": "Eve's Pudding",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "cooking apple",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "demerara sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "for the topping",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "for the topping",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "for the topping",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "level tsp",
+          "item": "baking powder",
+          "preparation": "for the topping",
+          "note": ""
+        }
+      ],
+      "method": [
+        "400° for ½ hour."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0389"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "No method for the apples or the topping; only the oven temperature and time are given."
+      ],
+      "approved": false
+    },
+    {
+      "id": "caramel-custard",
+      "title": "Caramel Custard",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4½",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "pt",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Do not stir when making the caramel."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0389"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "gypsy-tart",
+      "title": "Gypsy Tart",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "sweet pastry",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tin",
+          "item": "Ideal milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "7",
+          "unit": "oz",
+          "item": "dark brown sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Line a tin with sweet pastry, then cool.",
+        "Whisk the Ideal milk until it is thick and creamy, then add the sugar.",
+        "Bake at 350° (mark 4) for 25 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0395"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "margarets-tart",
+      "title": "Margaret's Tart",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "pastry",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "some",
+          "unit": "",
+          "item": "dried fruit",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "water icing",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Line a large round sponge tin with pastry.",
+        "Mix the marg, sugar, egg and fruit and fill.",
+        "When cool, cover with water icing."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0382"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "bobbly-blackcurrant-bake",
+      "title": "Bobbly Blackcurrant Bake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "10",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "level tsp",
+          "item": "cinnamon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "beaten",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "bramble jam",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Rub the flour and marg together, then add the sugar and egg.",
+        "Chill until firm.",
+        "Line the base of a loose-bottomed tin. Cover with bramble jam.",
+        "Grate the rest of the pastry over as a topping."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0399"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "butterscotch-pie",
+      "title": "Butterscotch Pie",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "digestives",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "fl oz",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "tbsp",
+          "item": "cold water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "separated",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "For the base, press the digestives and marg into a 9\" flan tin.",
+        "For the filling, heat the milk and add the flour, sugar, butter and water. Stir in the saucepan until the mixture begins to thicken.",
+        "Add the yolks and vanilla. Cook until very thick and glossy, beating well with a wooden spoon.",
+        "Make a meringue with the whites and caster sugar and pipe on top.",
+        "300° for 15 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0399"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "pavlova",
+      "title": "Pavlova",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "egg whites",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "cornflour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "white vinegar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "vanilla",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Beat the egg whites and add the sugar slowly.",
+        "Fold in the cornflour, vinegar and vanilla.",
+        "120° for 1½ hrs (top oven)."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0394"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "fresh-lemon-gateau",
+      "title": "Fresh Lemon Gateau",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "separated",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "large lemons",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "",
+          "item": "trifle sponges",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "cream",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "mandarins",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the butter and sugar. Add the beaten egg yolks and lemon juice.",
+        "Fold in the stiffly beaten whites.",
+        "Split the sponges and place one layer in the bottom of a 6\" soufflé dish. Cover with lemon mixture and repeat.",
+        "Cover with a plate and refrigerate overnight.",
+        "Next day turn onto a plate. Cover with cream and mandarins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0397"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "lizs-cheesecake",
+      "title": "Liz's Cheesecake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4 to 6",
+          "unit": "oz",
+          "item": "ginger nuts",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "large tin",
+          "item": "condensed milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "carton",
+          "item": "long life cream",
+          "preparation": "whipped",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "lemons",
+          "preparation": "juice",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "sachet",
+          "item": "gelatine",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0388"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "pineapple-cheese-cake",
+      "title": "Pineapple Cheese Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "biscuit base",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3 to 4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "cup",
+          "item": "icing sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "unbeaten eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "cream",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "icing sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "tin",
+          "item": "crushed pineapple",
+          "preparation": "drained",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Beat the butter, icing sugar and eggs until smooth. Spread on the base and set in the fridge.",
+        "Whip the cream and add icing sugar and the pineapple. Spread over.",
+        "Decorate with crumbs."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0395"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "raspberry-surprise",
+      "title": "Raspberry Surprise",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "digestives",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "cup",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "melted butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "jelly",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "boiling water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "lb",
+          "item": "frozen raspberries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "24",
+          "unit": "",
+          "item": "marshmallows",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "cup",
+          "item": "hot milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "whipped cream",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "For the base, mix the digestives, sugar and melted butter.",
+        "For the middle, dissolve the jelly in the boiling water, add the raspberries and leave to set.",
+        "For the topping, melt the marshmallows in the hot milk. Cool, then add the cream."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0394"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "raspberry-souffle",
+      "title": "Raspberry Soufflé",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "⅓",
+          "unit": "cup",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "strawberry jelly",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "raspberries",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the jelly in the water and add the raspberries."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0397"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "jacquies-mousse",
+      "title": "Jacquie's Mousse",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "lemon jelly",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "tbsp",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "small tin",
+          "item": "evaporated milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Make up the jelly with the ½pt water. Cool until nearly set.",
+        "Melt the chocolate in 4 tbsp water.",
+        "Warm the evaporated milk and add to the chocolate mixture.",
+        "Whisk everything together."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0394"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chocolate-mousse",
+      "title": "Chocolate Mousse",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "plain chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "separated",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the chocolate in a pan over water.",
+        "Stir in the egg yolks.",
+        "Whisk the egg whites and fold into the chocolate mixture.",
+        "Added note: add the vanilla and sherry to the yolks, then the chocolate, gelatine and cream, and lastly the whites."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0389"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chocolate-mousse-second-version",
+      "title": "Chocolate Mousse (second version)",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "separated",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "cream",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "gelatine",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "tbsp",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "plain chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Whisk the whites stiffly.",
+        "Cream the yolks and sugar. Add the gelatine, chocolate and sherry.",
+        "Lastly fold in the whites."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0393"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chocolate-fudge-gateau",
+      "title": "Chocolate Fudge Gateau",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "plain chocolate",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "digestive biscuits",
+          "preparation": "crushed",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "cherries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "instant coffee",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "can evaporated milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the chocolate and place in a bowl with the sugar.",
+        "Melt the butter, evaporated milk and chocolate. Stir in the eggs and beat well.",
+        "Add to the crushed biscuits, cherries and coffee."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0398"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "The chocolate is melted in step 1 and again in step 2; check the page for which is right."
+      ],
+      "approved": false
+    }
+  ]
+}

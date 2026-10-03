@@ -1,0 +1,639 @@
+{
+  "id": "jams-and-preserves",
+  "title": "Jams and Preserves",
+  "recipes": [
+    {
+      "id": "gooseberry-jam",
+      "title": "Gooseberry Jam",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "gooseberries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1 lb 4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Simmer the gooseberries in the water until tender.",
+        "Add the sugar and boil fast until set."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0358"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "blackcurrant-jam",
+      "title": "Blackcurrant Jam",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "blackcurrants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "if the fruit is firm",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "if the fruit is ripe",
+          "note": ""
+        },
+        {
+          "quantity": "1 lb 4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Simmer the fruit and water until the fruit is soft.",
+        "Stir in the sugar and stir until dissolved.",
+        "Boil rapidly until setting point."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0358"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "bramble-jam",
+      "title": "Bramble Jam",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3 lb 12",
+          "unit": "oz",
+          "item": "brambles",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "apple",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil the brambles and apple with the water until soft.",
+        "Add the sugar and boil until set (about 15 mins)."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0359"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "plum-jam",
+      "title": "Plum Jam",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "plums",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "tbsp",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1 lb 4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0359"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "rhubarb-jam",
+      "title": "Rhubarb Jam",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "5",
+          "unit": "lb",
+          "item": "rhubarb",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "ground ginger",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Steep, then boil for 30 to 35 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0359"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "strawberry-jam",
+      "title": "Strawberry Jam",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "lb",
+          "item": "strawberries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6½",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "lemons",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil to 222°."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0360"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "marmalade",
+      "title": "Marmalade",
+      "makes": "10lbs",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "lb",
+          "item": "marmalade oranges",
+          "preparation": "plus 1 sweet orange and 2 lemons (added later)",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Soak overnight with the pips in a muslin bag.",
+        "Next day, boil for 1 hour. Leave overnight.",
+        "Remove the pips and boil with the sugar for 1 hour.",
+        "Some margin amounts are stain-damaged."
+      ],
+      "notes": [
+        "Margin note: \"7: fast ring 1hr 10mins\"."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0358"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "6 lb sugar: later amended to 9lbs."
+      ],
+      "approved": false
+    },
+    {
+      "id": "delias-marmalade",
+      "title": "Delia's Marmalade",
+      "makes": "6lbs",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "lb",
+          "item": "Seville oranges",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "lemon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Halve the oranges and squeeze the juice and pips out on a juicer.",
+        "Slice the peel thinly.",
+        "Simmer the peel in the water and juice for 2 hours.",
+        "Add the sugar. Test after 15 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0360"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "lemon-curd",
+      "title": "Lemon Curd",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "lemons",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Grate and squeeze the lemons. Strain the juice into a bowl.",
+        "Add the grated rind, beaten eggs, sugar and butter.",
+        "Stir over a gentle heat with a wooden spoon until the sugar and butter are melted and the curd thickens. Don't boil or the mixture will curdle.",
+        "Sterilise jars and cover at once."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0403"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "mincemeat",
+      "title": "Mincemeat",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "10",
+          "unit": "oz",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "10",
+          "unit": "oz",
+          "item": "raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "suet",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "mixed peel",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "soft dark brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "cooking apples",
+          "preparation": "grated",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "lemon",
+          "preparation": "juice",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "orange",
+          "preparation": "juice",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "cinnamon and mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Mix all the ingredients together."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0360"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "mincemeat-second-version",
+      "title": "Mincemeat (second version)",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "large cooking apples",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "mixed peel",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "suet",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "soft brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "lemon",
+          "preparation": "rind and juice",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "level tsp",
+          "item": "mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "level tsp",
+          "item": "cinnamon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "tbsp",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0392"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "farmhouse-kitchen-chutney",
+      "title": "Farmhouse Kitchen Chutney",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "each of soft brown sugar",
+          "preparation": "onions, chopped dates, sultanas and cooking apples",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "tsp",
+          "item": "pickling spice and salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "malt vinegar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Place in a bowl and stand for 48 hrs before placing in jars."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0365"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    }
+  ]
+}

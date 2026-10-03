@@ -3,28 +3,47 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% block title %}Recipe review{% endblock %}</title>
+  <title>{% block title %}Granny Topping's Recipes{% endblock %}</title>
   <style>
     body { font-family: Georgia, serif; margin: 0; padding: 1rem 1.5rem; color: #2b2b2b; background: #fbf8f2; }
     a { color: #7a3e1d; }
     h1 { font-weight: normal; }
+    h2 { font-weight: normal; margin-top: 1.5rem; }
     table { border-collapse: collapse; width: 100%; }
-    td, th { padding: .3rem .4rem; text-align: left; vertical-align: top; }
+    td { padding: .3rem .4rem; text-align: left; vertical-align: top; border-bottom: 1px solid #ebe5da; }
     input, textarea { font: inherit; width: 100%; box-sizing: border-box; padding: .3rem; border: 1px solid #c9c2b5; background: #fff; }
-    textarea { min-height: 3.5rem; }
-    .layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: 1.5rem; align-items: start; }
-    .scan { position: sticky; top: 1rem; }
+    textarea { margin-bottom: .3rem; }
+    th { text-align: left; font-weight: normal; color: #6b6357; font-size: .85rem; padding: 0 .2rem; }
+    .ingredients td { padding: .1rem .2rem; border: 0; }
+    .ingredients td:nth-child(1), .ingredients td:nth-child(2) { width: 6rem; }
+    .row { display: flex; gap: 1rem; }
+    .row { margin-bottom: .6rem; }
+    .row label { flex: 1; font-size: .85rem; color: #6b6357; }
+    .row label.narrow { flex: 0 0 11rem; }
+    tr.uncertain input, input.uncertain, textarea.uncertain { background: #fff4c2; }
+    .layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); gap: 1.5rem; align-items: start; }
+    .scan { position: sticky; top: 1rem; max-height: calc(100vh - 2rem); overflow-y: auto; }
     .scan img { width: 100%; border: 1px solid #c9c2b5; }
-    .medium { background: #fff4c2; border-color: #e0b400; }
-    .low { background: #ffd9d2; border-color: #d0482a; }
-    .badge { display: inline-block; font-size: .8rem; padding: .1rem .5rem; border-radius: 1rem; background: #e6e0d4; }
+    .muted { color: #6b6357; font-size: .9rem; }
+    .badge { display: inline-block; font-size: .8rem; padding: .1rem .5rem; border-radius: 1rem; background: #e6e0d4; white-space: nowrap; }
     .badge.approved { background: #cfe8cf; }
-    .legend span { padding: .1rem .5rem; margin-right: .5rem; border: 1px solid; }
+    .badge.uncertain-count { background: #fff4c2; }
+    .recipes { table-layout: fixed; max-width: 60rem; margin-top: 1rem; }
+    .recipes col.pages { width: 11rem; }
+    .recipes col.flag { width: 5.5rem; }
+    .recipes col.status { width: 7.5rem; }
+    .recipes thead th { padding: .3rem .4rem; border-bottom: 2px solid #c9c2b5; }
+    .recipes tr.chapter th { font-size: 1.15rem; color: #2b2b2b; padding: 1.25rem .4rem .3rem; border-bottom: 1px solid #c9c2b5; }
+    .recipes td { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .recipes td:first-child { white-space: normal; }
+    .recipes tbody tr:not(.chapter):hover { background: #f3efe6; }
+    .stages { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; }
+    .stages .current { font-weight: bold; }
     .actions { margin: 1rem 0; display: flex; gap: .5rem; }
     button { font: inherit; padding: .4rem 1rem; cursor: pointer; }
     .saved { color: #2e6b2e; }
     nav { margin-bottom: 1rem; }
-    @media (max-width: 800px) { .layout { grid-template-columns: 1fr; } .scan { position: static; } }
+    @media (max-width: 800px) { .layout { grid-template-columns: 1fr; } .scan { position: static; max-height: none; } }
   </style>
 </head>
 <body>

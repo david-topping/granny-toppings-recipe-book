@@ -1,24 +1,22 @@
 [project]
 name = "granny-toppings-recipe-book"
 version = "0.1.0"
-description = "Digitise Granny Topping's handwritten recipe cards into a printable cookbook"
+description = "Review and approve Granny Topping's transcribed recipes beside the original page photos"
 readme = "README.md"
 authors = [
     { name = "David Topping", email = "topping.david11@gmail.com" }
 ]
 requires-python = ">=3.12"
 dependencies = [
-    "anthropic>=1.11.0",
     "fastapi>=0.142.2",
     "jinja2>=3.1.6",
-    "opencv-python-headless>=5.0.0.93",
     "pydantic>=2.13.5",
     "python-multipart>=0.0.32",
     "uvicorn>=0.54.0",
 ]
 
 [project.scripts]
-toppings = "toppings.cli:main"
+toppings = "toppings.app:main"
 
 [build-system]
 requires = ["uv_build>=0.12.7,<0.13.0"]

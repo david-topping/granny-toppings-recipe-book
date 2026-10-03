@@ -1,0 +1,1895 @@
+{
+  "id": "cakes-and-loaves",
+  "title": "Cakes and Loaves",
+  "recipes": [
+    {
+      "id": "jeans-sponge",
+      "title": "Jean's Sponge",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "Flora",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "heaped tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "tbsp",
+          "item": "tepid water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Mix in the Kenwood for the shortest possible time.",
+        "170° for 18 to 20 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0367"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "victoria-sandwich-cake",
+      "title": "Victoria Sandwich Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "level tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "a little",
+          "unit": "",
+          "item": "milk",
+          "preparation": "if necessary",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the butter and sugar, then add the eggs.",
+        "Fold in the flour and baking powder.",
+        "Add a little milk if necessary.",
+        "375° for 25 to 30 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0374"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "sponge-sandwich",
+      "title": "Sponge Sandwich",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Whisk the sugar and eggs, then add the flour and water."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0377"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "egg-sponge",
+      "title": "Egg Sponge",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Beat the eggs and sugar until creamy (ten minutes), then add the water.",
+        "Fold in the flour with an iron spoon.",
+        "Bake 10 to 15 mins: 425° for 5 mins, then 400°."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0371"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "chocolate-sandwich",
+      "title": "Chocolate Sandwich",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "cocoa",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "separated",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and sugar.",
+        "Add the egg yolks and dry ingredients.",
+        "Add the milk and vanilla, then the egg whites.",
+        "400° for 20 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0377"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "orange-sandwich-cake",
+      "title": "Orange Sandwich Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "egg whites",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "egg yolks",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "orange",
+          "preparation": "grated rind",
+          "note": ""
+        },
+        {
+          "quantity": "a little",
+          "unit": "",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Beat the egg whites stiffly.",
+        "Cream the sugar and butter. Beat in the egg yolks.",
+        "Sift the flour and baking powder and mix in the orange rind. Add to the creamed mixture alternately with the milk.",
+        "Fold in the egg whites.",
+        "350° for 25 mins.",
+        "Sandwich with orange butter cream: butter icing with orange rind and a very little orange juice."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0374"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "laddie-cake",
+      "title": "Laddie Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1¾",
+          "unit": "cup",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": "6oz"
+        },
+        {
+          "quantity": "¾",
+          "unit": "cup",
+          "item": "sugar",
+          "preparation": "",
+          "note": "3oz"
+        },
+        {
+          "quantity": "¼",
+          "unit": "lb",
+          "item": "lard",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "raspberry jam",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Mix the dry ingredients. Rub in the lard.",
+        "Bind to a stiff dough with the egg.",
+        "Split in two. Spread one half with jam and cover the jam with the second half.",
+        "350° for ½ hour."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0371"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "norfolk-cake",
+      "title": "Norfolk Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "level tsp",
+          "item": "mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "butter",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "orange",
+          "preparation": "grated rind",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "lemon",
+          "preparation": "grated rind",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Sift the flour, baking powder and spice and allow to stand in a warm place while creaming the butter and sugar.",
+        "Beat the eggs and stir into the butter mixture alternately with the flour.",
+        "Mix in the sultanas, currants and rind, then the milk.",
+        "Bake in a round 8\" tin at 325° for 2 hours."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0373"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "sultana-cake",
+      "title": "Sultana Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "tbsp",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "almond essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "12",
+          "unit": "oz",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the sugar and marg, then add the eggs.",
+        "Add the milk and almond essence, then the flours and sultanas.",
+        "Mark 3 for the first ½ hour, then mark 2 for 1 hour."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0380"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "belgian-cake",
+      "title": "Belgian Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "baking powder",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "bicarbonate of soda",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6½",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "cinnamon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "ginger",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil the sugar, currants, water and marg for 10 mins.",
+        "Add the baking powder, bicarbonate of soda, flour, cinnamon and ginger.",
+        "350° for 50 to 60 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0390"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "moist-ginger-cake",
+      "title": "Moist Ginger Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "sultanas",
+          "preparation": "",
+          "note": "if liked"
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "almonds",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "baking soda",
+          "preparation": "",
+          "note": "rounded, not heaped"
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "ground cloves",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "cinnamon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "Stork",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "treacle",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "boiling water",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg, sugar and treacle in a pan.",
+        "Mix all the dry ingredients thoroughly and beat the eggs well.",
+        "Add the treacle mixture first, then the eggs and lastly the boiling water. Beat frequently when adding liquids.",
+        "Bake in a moderate oven for 1½ hours: 350 for the first hour, then turn to 300.",
+        "The card reads \"ground gloves\".",
+        "This is probably cloves, but could be ground ginger."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0368"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "gingerbread",
+      "title": "Gingerbread",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tsp",
+          "item": "ground ginger",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "pt",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the syrup, marg and sugar.",
+        "Mix with the flour, ginger, egg and milk.",
+        "350° for 45 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0377"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "rich-cake",
+      "title": "Rich Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "7",
+          "unit": "oz",
+          "item": "Blue Band",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "soft brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "treacle",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "9",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1¼",
+          "unit": "tsp",
+          "item": "mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2½",
+          "unit": "oz",
+          "item": "ground almonds",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3½",
+          "unit": "oz",
+          "item": "whole almonds",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "lemon rind",
+          "preparation": "grated",
+          "note": ""
+        },
+        {
+          "quantity": "3½",
+          "unit": "oz",
+          "item": "mixed cut peel",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3½",
+          "unit": "oz",
+          "item": "glacé cherries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "13",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "9",
+          "unit": "oz",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "5",
+          "unit": "oz",
+          "item": "raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "3",
+          "unit": "",
+          "item": "egg whites",
+          "preparation": "for the icing",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "lb",
+          "item": "icing sugar",
+          "preparation": "for the icing",
+          "note": ""
+        },
+        {
+          "quantity": "1½",
+          "unit": "tsp",
+          "item": "glycerine",
+          "preparation": "for the icing",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Place all the cake ingredients in a mixing bowl.",
+        "Mix well with a metal spoon until all the ingredients are smoothly combined.",
+        "275° for 3 hrs."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0378"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "Icing ingredients are listed but there is no method for the icing."
+      ],
+      "approved": false
+    },
+    {
+      "id": "christmas-cake",
+      "title": "Christmas Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "10",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "",
+          "item": "big eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "lb",
+          "item": "cherries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¾",
+          "unit": "lb",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "treacle",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "vanilla essence",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the sugar and marg. Coat the fruit with flour.",
+        "Add the eggs and flour a little at a time, alternating.",
+        "Add the treacle, then the fruit, then the sherry.",
+        "Bake for 4 to 5 hours at 350°.",
+        "350° for 4 to 5 hours is as written, but seems hot for that long."
+      ],
+      "notes": [
+        "Should be kept 6 weeks before required."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0372"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "express-christmas-cake",
+      "title": "Express Christmas Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "soft marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "9",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "treacle",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "peel",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "cherries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "stoned raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Cream the marg and sugar, then add the eggs one by one with a wooden spoon.",
+        "Add the treacle, flour and mixed spice.",
+        "Add the fruit.",
+        "325°, mark 3, for 4 to 5 hours.",
+        "While hot, sprinkle the sherry over the cake."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0385"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "Soft marg: amount faded.",
+        "Caster sugar: amount faded.",
+        "4 oz cherries: word partly unclear."
+      ],
+      "approved": false
+    },
+    {
+      "id": "janes-christmas-cake",
+      "title": "Jane's Christmas Cake",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "soft brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "cherries",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "tbsp",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Put into a 180° oven, immediately reduce to 150°, then reduce by 25° every hour.",
+        "4 hours in total.",
+        "8oz marzipan can be placed in the middle before baking."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0388"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "janes-black-bun",
+      "title": "Jane's Black Bun",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "flour",
+          "preparation": "for the pastry",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "for the pastry",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "milk",
+          "preparation": "to mix, for the pastry",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "soft brown sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "raisins",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "currants",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "oz",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "oz",
+          "item": "peel",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tbsp",
+          "item": "sherry",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "cinnamon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "ground ginger",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "bicarbonate of soda",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "¼",
+          "unit": "tsp",
+          "item": "cream of tartar",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Glaze with egg, then prick.",
+        "160° for 2 hours."
+      ],
+      "notes": [
+        "Double the quantity and use two loaf tins."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0388"
+        ],
+        "note": ""
+      },
+      "checks": [
+        "No method for making the pastry or the filling; only glazing and baking are given."
+      ],
+      "approved": false
+    },
+    {
+      "id": "fruit-loaf",
+      "title": "Fruit Loaf",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "½",
+          "unit": "lb",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "sugar",
+          "preparation": "",
+          "note": "6oz"
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "sultanas",
+          "preparation": "",
+          "note": "4oz"
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "currants",
+          "preparation": "",
+          "note": "4oz"
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2½",
+          "unit": "cup",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": "10oz"
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "baking soda",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil the marg, sugar, fruit and water for 2 to 3 mins.",
+        "Add the flour, baking soda and egg.",
+        "1½ hours at 325°, covered with greaseproof paper."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0375"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "margarets-fruit-loaf-2",
+      "title": "Margaret's Fruit Loaf (2)",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "sultanas",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "cup",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "heaped tsp",
+          "item": "bicarbonate of soda",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "4",
+          "unit": "",
+          "item": "eggs",
+          "preparation": "beaten",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Boil the marg, sultanas, sugar, water and bicarbonate of soda for 20 mins, then cool.",
+        "Add the eggs and flour.",
+        "350° for 1 hour."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0385"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "tea-fruit-loaf",
+      "title": "Tea Fruit Loaf",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "cold tea",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "fruit",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "8",
+          "unit": "oz",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "12",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "tsp",
+          "item": "mixed spice",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "egg",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Stand the tea, fruit and sugar.",
+        "Add the flour, spice and egg.",
+        "325° (mark 3) for 1½ hours, then 275° (mark 1) for 1½ hours."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0379"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "all-bran-loaf",
+      "title": "All Bran Loaf",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "mixed fruit",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "All-Bran",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "milk",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "cup",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Mix and leave for one hour, then add the flour.",
+        "250° for 1 to 1½ hours."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0383"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "cinnamon-banana-loaf",
+      "title": "Cinnamon Banana Loaf",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "unit": "oz",
+          "item": "marg",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "2",
+          "unit": "oz",
+          "item": "caster sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "6",
+          "unit": "oz",
+          "item": "self-raising flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "pinch",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "level tsp",
+          "item": "cinnamon",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "gently rounded tbsp syrup",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "banana",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "",
+          "item": "large egg",
+          "preparation": "beaten",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Melt the marg with the sugar and syrup. Heat gently, then cool a little.",
+        "Mash the banana and mix into the flour, salt and cinnamon.",
+        "Add the melted mixture and the egg.",
+        "Mark 4 (350°) for 50 to 55 mins."
+      ],
+      "notes": [],
+      "source": {
+        "pages": [
+          "IMG_0381"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    },
+    {
+      "id": "white-loaf",
+      "title": "White Loaf",
+      "makes": "",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "unit": "lb",
+          "item": "plain flour",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "salt",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "½",
+          "unit": "oz",
+          "item": "yeast",
+          "preparation": "",
+          "note": "or 2 level tsp dried"
+        },
+        {
+          "quantity": "½",
+          "unit": "pt",
+          "item": "water",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "1",
+          "unit": "level tsp",
+          "item": "sugar",
+          "preparation": "",
+          "note": ""
+        },
+        {
+          "quantity": "",
+          "unit": "",
+          "item": "egg and milk",
+          "preparation": "to glaze",
+          "note": ""
+        }
+      ],
+      "method": [
+        "Sift the flour and salt into a bowl.",
+        "Dissolve the yeast in the tepid water and add the sugar.",
+        "Add to a well in the centre of the flour. Mix to a dough and knead for 10 mins.",
+        "Place in a greased and floured bread tin. Allow to rise to double its size in a warm place.",
+        "Glaze with beaten egg and milk.",
+        "Bake for 45 mins: first 15 mins at 450°, then 30 mins at 350°."
+      ],
+      "notes": [
+        "May be used for dinner rolls in small lots."
+      ],
+      "source": {
+        "pages": [
+          "IMG_0387"
+        ],
+        "note": ""
+      },
+      "checks": [],
+      "approved": false
+    }
+  ]
+}
